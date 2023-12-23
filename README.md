@@ -1,2 +1,4 @@
-# Data-Science-Python-Projects
-Delve into a curated collection of my Python assignments, showcasing the artistry of Data Science. Each project is a testament to precision and problem-solving, spanning insightful data analysis to cutting-edge machine learning. Your presence on this coding journey is most welcome, let's unlock the potential of data together! 
+<h1><b></b>Data-Science-Python-Projects<b></b></h1>
+<p><b>Assignment_1:</b><br>
+All assignment_1 problems and thier codes with output are availaible in the (Assignment_1.ipynb) file.<br>
+Flow chart of question 3 is attached in the (Assignment_1 Q3_flow-chart.png file).</p>
